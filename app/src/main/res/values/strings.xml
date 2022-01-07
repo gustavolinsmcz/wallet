@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wallet</string>
+    <string name="title_home">Saldo</string>
+    <string name="title_bank_statement">Extrato de operações</string>
+
+    <string name="error_loading">Não foi possível cotar a moeda</string>
+    <string name="select">Selecione</string>
+    <string name="digit_value">Digite o valor</string>
+    <string name="success_convert">Conversão realizada com sucesso</string>
+    <string name="its_not_possible">Não é possível realizar operações com uma moeda local</string>
+
+</resources>
