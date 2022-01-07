@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/drawable-v24/rounded_edit_text_background.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/drawable-v24/rounded_edit_text_background_disabled.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/drawable-v24/rounded_edit_text_background_enabled.xml" value="0.14907407407407408" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/activity_transaction.xml" value="0.33" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/activity_transion.xml" value="0.32382246376811596" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/fragment_dashboard.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/fragment_home.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/fragment_statement.xml" value="0.15729166666666666" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/list_item.xml" value="0.15489130434782608" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/layout/signup.xml" value="0.25" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/gusta/AndroidStudioProjects/wallet/app/src/main/res/menu/popup_menu.xml" value="0.2125" />
+        <entry key="..\:/Users/gusta/AppData/Local/Android/Sdk/platforms/android-31/data/res/layout/activity_list_item.xml" value="0.2125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
